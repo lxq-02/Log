@@ -1,3 +1,4 @@
 *.txt
+*.log
 Log.bak.h
 Log.bak.cpp
