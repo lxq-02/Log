@@ -1,0 +1,1685 @@
+[2025-10-28 21:41:26.170] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.170] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.170] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.170] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.170] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.171] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: -132880
+[2025-10-28 21:41:26.171] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: 132880
+[2025-10-28 21:41:26.171] [Simulator.cpp:352][SetVisualDynamicSpeed] 进入加速
+[2025-10-28 21:41:26.171] [Simulator.cpp:355][SetVisualDynamicSpeed] 加速比例：132870
+[2025-10-28 21:41:26.171] [Simulator.cpp:358][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.171] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.174] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.174] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.175] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.175] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.175] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.177] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.177] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.178] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.178] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.178] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.181] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.181] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.181] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.181] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.181] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.184] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.184] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.184] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.184] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.184] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.213] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.213] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.213] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.213] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.213] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.216] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.216] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.216] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.216] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.216] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.244] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.244] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.244] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.244] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.244] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.259] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.259] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.259] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.259] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.259] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.259] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 11
+[2025-10-28 21:41:26.259] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -11
+[2025-10-28 21:41:26.259] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.259] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：1
+[2025-10-28 21:41:26.259] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.260] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.275] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.275] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.275] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.275] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.275] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.275] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 12
+[2025-10-28 21:41:26.275] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -12
+[2025-10-28 21:41:26.275] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.275] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：2
+[2025-10-28 21:41:26.275] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.275] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.291] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.291] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.291] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.291] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.291] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.291] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 14
+[2025-10-28 21:41:26.291] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -14
+[2025-10-28 21:41:26.291] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.291] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：4
+[2025-10-28 21:41:26.291] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.292] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.306] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.306] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.306] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.306] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.306] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.306] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 15
+[2025-10-28 21:41:26.306] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -15
+[2025-10-28 21:41:26.306] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.306] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：5
+[2025-10-28 21:41:26.306] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.306] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.320] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.320] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.321] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.321] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.321] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.321] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 17
+[2025-10-28 21:41:26.321] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -17
+[2025-10-28 21:41:26.321] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.321] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：7
+[2025-10-28 21:41:26.321] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.321] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.335] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.335] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.335] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.335] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.335] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.335] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 18
+[2025-10-28 21:41:26.335] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -18
+[2025-10-28 21:41:26.335] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.335] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：8
+[2025-10-28 21:41:26.335] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.335] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.365] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.365] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.365] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.365] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.365] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.365] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 19
+[2025-10-28 21:41:26.365] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -19
+[2025-10-28 21:41:26.365] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.365] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：9
+[2025-10-28 21:41:26.365] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.366] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.380] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.380] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.380] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.380] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.381] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.381] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 21
+[2025-10-28 21:41:26.381] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -21
+[2025-10-28 21:41:26.381] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.381] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：11
+[2025-10-28 21:41:26.381] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.381] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.399] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.399] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.399] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.399] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.400] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.400] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 22
+[2025-10-28 21:41:26.400] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -22
+[2025-10-28 21:41:26.400] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.400] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：12
+[2025-10-28 21:41:26.400] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.401] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.406] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.406] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.406] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.406] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.406] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.406] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 24
+[2025-10-28 21:41:26.406] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -24
+[2025-10-28 21:41:26.406] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.406] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：14
+[2025-10-28 21:41:26.406] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.406] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.426] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.426] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.426] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.426] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.426] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.426] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 25
+[2025-10-28 21:41:26.426] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -25
+[2025-10-28 21:41:26.427] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.427] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：15
+[2025-10-28 21:41:26.427] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.427] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.441] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.441] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.441] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.441] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.441] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.441] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 27
+[2025-10-28 21:41:26.441] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -27
+[2025-10-28 21:41:26.441] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.442] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：17
+[2025-10-28 21:41:26.442] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.442] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.456] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.456] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.456] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.456] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.456] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.457] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 28
+[2025-10-28 21:41:26.457] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -28
+[2025-10-28 21:41:26.457] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.457] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：18
+[2025-10-28 21:41:26.457] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.457] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.471] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.471] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.471] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.472] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.472] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.472] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 29
+[2025-10-28 21:41:26.472] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -29
+[2025-10-28 21:41:26.472] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.472] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：19
+[2025-10-28 21:41:26.472] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:41:26.472] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.487] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.487] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.487] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.487] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.487] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.487] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 31
+[2025-10-28 21:41:26.487] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -31
+[2025-10-28 21:41:26.487] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.487] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：21
+[2025-10-28 21:41:26.487] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.487] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.517] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.517] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.517] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.517] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.517] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.517] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 32
+[2025-10-28 21:41:26.517] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -32
+[2025-10-28 21:41:26.517] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.517] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：22
+[2025-10-28 21:41:26.518] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.518] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.533] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.533] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.533] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.533] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.533] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.533] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 34
+[2025-10-28 21:41:26.533] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -34
+[2025-10-28 21:41:26.533] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.533] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：24
+[2025-10-28 21:41:26.533] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.534] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.548] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.548] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.548] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.548] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.548] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.548] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 35
+[2025-10-28 21:41:26.548] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -35
+[2025-10-28 21:41:26.548] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.548] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：25
+[2025-10-28 21:41:26.548] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.549] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.563] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.563] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.563] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.563] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.563] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.563] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 36
+[2025-10-28 21:41:26.563] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -36
+[2025-10-28 21:41:26.563] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.564] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：26
+[2025-10-28 21:41:26.564] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.564] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.578] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.578] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.578] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.578] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.578] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.578] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 38
+[2025-10-28 21:41:26.578] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -38
+[2025-10-28 21:41:26.579] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.579] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：28
+[2025-10-28 21:41:26.579] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.579] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.600] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.600] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.600] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.600] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.600] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.600] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 39
+[2025-10-28 21:41:26.600] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -39
+[2025-10-28 21:41:26.600] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.600] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：29
+[2025-10-28 21:41:26.600] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.600] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.608] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.608] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.608] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.608] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.608] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.608] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 41
+[2025-10-28 21:41:26.608] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -41
+[2025-10-28 21:41:26.608] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.608] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：31
+[2025-10-28 21:41:26.608] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.608] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.624] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.624] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.624] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.624] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.624] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.624] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 42
+[2025-10-28 21:41:26.624] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -42
+[2025-10-28 21:41:26.624] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.624] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：32
+[2025-10-28 21:41:26.624] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.624] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.655] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.655] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.655] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.655] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.655] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.655] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 44
+[2025-10-28 21:41:26.655] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -44
+[2025-10-28 21:41:26.655] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.655] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：34
+[2025-10-28 21:41:26.655] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.655] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.657] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.657] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.657] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.657] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.657] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.657] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 45
+[2025-10-28 21:41:26.657] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -45
+[2025-10-28 21:41:26.657] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.657] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：35
+[2025-10-28 21:41:26.657] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.657] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.685] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.685] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.685] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.686] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.686] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.686] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 46
+[2025-10-28 21:41:26.686] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -46
+[2025-10-28 21:41:26.686] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.686] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：36
+[2025-10-28 21:41:26.686] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.686] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.701] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.701] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.702] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.702] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.702] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.702] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 48
+[2025-10-28 21:41:26.702] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -48
+[2025-10-28 21:41:26.702] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.702] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：38
+[2025-10-28 21:41:26.702] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.702] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.716] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.716] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.716] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.716] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.716] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.716] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 49
+[2025-10-28 21:41:26.716] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -49
+[2025-10-28 21:41:26.716] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.716] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：39
+[2025-10-28 21:41:26.716] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.716] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.732] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.732] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.732] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.732] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.732] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.732] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 51
+[2025-10-28 21:41:26.732] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -51
+[2025-10-28 21:41:26.732] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.733] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：41
+[2025-10-28 21:41:26.733] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.733] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.747] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.747] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.748] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.748] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.748] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.748] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 52
+[2025-10-28 21:41:26.748] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -52
+[2025-10-28 21:41:26.748] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.748] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：42
+[2025-10-28 21:41:26.748] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.748] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.762] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.762] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.762] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.763] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.763] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.763] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 54
+[2025-10-28 21:41:26.763] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -54
+[2025-10-28 21:41:26.763] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.763] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：44
+[2025-10-28 21:41:26.763] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.763] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.777] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.777] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.777] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.777] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.777] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.777] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 55
+[2025-10-28 21:41:26.777] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -55
+[2025-10-28 21:41:26.777] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.777] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：45
+[2025-10-28 21:41:26.777] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.777] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.807] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.807] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.807] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.807] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.807] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.808] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 56
+[2025-10-28 21:41:26.808] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -56
+[2025-10-28 21:41:26.808] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.808] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：46
+[2025-10-28 21:41:26.808] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.808] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.823] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.823] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.823] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.823] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.823] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.823] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 58
+[2025-10-28 21:41:26.823] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -58
+[2025-10-28 21:41:26.823] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.823] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：48
+[2025-10-28 21:41:26.823] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.823] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.837] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.837] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.838] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.838] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.838] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.838] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 59
+[2025-10-28 21:41:26.838] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -59
+[2025-10-28 21:41:26.838] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.838] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：49
+[2025-10-28 21:41:26.838] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.838] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.852] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.852] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.852] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.852] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.852] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.853] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 61
+[2025-10-28 21:41:26.853] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -61
+[2025-10-28 21:41:26.853] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.853] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：51
+[2025-10-28 21:41:26.853] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.853] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.868] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.868] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.868] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.869] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.869] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.869] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 62
+[2025-10-28 21:41:26.869] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -62
+[2025-10-28 21:41:26.869] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.869] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：52
+[2025-10-28 21:41:26.869] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.869] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.884] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.884] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.884] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.884] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.884] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.884] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 63
+[2025-10-28 21:41:26.884] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -63
+[2025-10-28 21:41:26.884] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.884] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：53
+[2025-10-28 21:41:26.885] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.885] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.900] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.900] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.900] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.900] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.900] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.900] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 65
+[2025-10-28 21:41:26.900] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -65
+[2025-10-28 21:41:26.900] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.900] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：55
+[2025-10-28 21:41:26.900] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.900] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.915] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.915] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.915] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.915] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.915] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.915] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 66
+[2025-10-28 21:41:26.915] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -66
+[2025-10-28 21:41:26.915] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.915] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：56
+[2025-10-28 21:41:26.915] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.915] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.930] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.930] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.930] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.930] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.930] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.930] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 68
+[2025-10-28 21:41:26.930] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -68
+[2025-10-28 21:41:26.930] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.930] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：58
+[2025-10-28 21:41:26.930] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.931] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.965] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.965] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.966] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.966] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.966] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.966] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 69
+[2025-10-28 21:41:26.966] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -69
+[2025-10-28 21:41:26.967] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.967] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：59
+[2025-10-28 21:41:26.967] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.967] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.975] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.975] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.975] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.976] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.976] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.976] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 71
+[2025-10-28 21:41:26.976] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -71
+[2025-10-28 21:41:26.976] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.976] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：61
+[2025-10-28 21:41:26.977] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.977] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:26.987] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:26.988] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:26.988] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:26.988] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:26.988] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:26.989] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 72
+[2025-10-28 21:41:26.989] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -72
+[2025-10-28 21:41:26.989] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:26.990] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：62
+[2025-10-28 21:41:26.990] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:26.990] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.012] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.012] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.012] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.013] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.013] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.013] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 73
+[2025-10-28 21:41:27.014] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -73
+[2025-10-28 21:41:27.014] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.014] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：63
+[2025-10-28 21:41:27.014] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.015] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.023] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.023] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.024] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.024] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.024] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.024] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 75
+[2025-10-28 21:41:27.024] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -75
+[2025-10-28 21:41:27.025] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.025] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：65
+[2025-10-28 21:41:27.025] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.025] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.034] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.034] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.034] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.034] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.034] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.035] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 76
+[2025-10-28 21:41:27.035] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -76
+[2025-10-28 21:41:27.035] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.035] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：66
+[2025-10-28 21:41:27.035] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.035] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.054] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.054] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.054] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.054] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.054] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.054] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 78
+[2025-10-28 21:41:27.054] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -78
+[2025-10-28 21:41:27.054] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.054] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：68
+[2025-10-28 21:41:27.054] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.054] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.070] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.070] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.070] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.070] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.070] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.070] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 79
+[2025-10-28 21:41:27.070] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -79
+[2025-10-28 21:41:27.070] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.070] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：69
+[2025-10-28 21:41:27.070] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.070] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.085] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.085] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.085] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.085] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.085] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.085] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 81
+[2025-10-28 21:41:27.085] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -81
+[2025-10-28 21:41:27.085] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.085] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：71
+[2025-10-28 21:41:27.085] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.085] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.101] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.101] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.101] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.101] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.101] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.101] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 82
+[2025-10-28 21:41:27.101] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -82
+[2025-10-28 21:41:27.101] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.101] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：72
+[2025-10-28 21:41:27.101] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.102] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.116] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.116] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.116] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.116] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.116] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.116] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 83
+[2025-10-28 21:41:27.116] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -83
+[2025-10-28 21:41:27.116] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.116] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：73
+[2025-10-28 21:41:27.116] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.116] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.152] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.152] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.152] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.153] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.153] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.153] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 85
+[2025-10-28 21:41:27.153] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -85
+[2025-10-28 21:41:27.153] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.153] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：75
+[2025-10-28 21:41:27.154] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.154] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.161] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.161] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.162] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.162] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.163] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.163] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 86
+[2025-10-28 21:41:27.163] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -86
+[2025-10-28 21:41:27.163] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.163] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：76
+[2025-10-28 21:41:27.164] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.164] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.172] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.172] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.172] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.173] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.173] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.173] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 88
+[2025-10-28 21:41:27.173] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -88
+[2025-10-28 21:41:27.173] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.173] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：78
+[2025-10-28 21:41:27.174] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.174] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.193] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.193] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.193] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.193] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.193] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.193] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 89
+[2025-10-28 21:41:27.193] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -89
+[2025-10-28 21:41:27.193] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.193] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：79
+[2025-10-28 21:41:27.193] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.193] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.209] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.209] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.209] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.209] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.209] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.209] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 91
+[2025-10-28 21:41:27.209] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -91
+[2025-10-28 21:41:27.209] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.209] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：81
+[2025-10-28 21:41:27.209] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.209] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.225] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.225] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.225] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.225] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.225] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.225] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 92
+[2025-10-28 21:41:27.225] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -92
+[2025-10-28 21:41:27.225] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.225] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：82
+[2025-10-28 21:41:27.225] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.225] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.240] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.240] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.240] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.240] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.240] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.240] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 93
+[2025-10-28 21:41:27.240] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -93
+[2025-10-28 21:41:27.240] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.240] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：83
+[2025-10-28 21:41:27.240] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.240] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.255] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.255] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.255] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.255] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.255] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.255] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 95
+[2025-10-28 21:41:27.255] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -95
+[2025-10-28 21:41:27.255] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.255] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：85
+[2025-10-28 21:41:27.255] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.255] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.271] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.271] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.271] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.271] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.271] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.271] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 96
+[2025-10-28 21:41:27.271] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -96
+[2025-10-28 21:41:27.271] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.271] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：86
+[2025-10-28 21:41:27.271] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.271] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.286] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.286] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.286] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.286] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.286] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.286] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 98
+[2025-10-28 21:41:27.286] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -98
+[2025-10-28 21:41:27.286] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.286] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：88
+[2025-10-28 21:41:27.286] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.286] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.317] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.317] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.317] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.317] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.317] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.317] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 99
+[2025-10-28 21:41:27.317] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -99
+[2025-10-28 21:41:27.317] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.317] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：89
+[2025-10-28 21:41:27.317] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.317] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.332] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.332] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.332] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.333] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.333] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.333] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 100
+[2025-10-28 21:41:27.333] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -100
+[2025-10-28 21:41:27.333] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.333] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：90
+[2025-10-28 21:41:27.333] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.333] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.347] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.347] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.347] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.347] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.347] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.347] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 102
+[2025-10-28 21:41:27.347] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -102
+[2025-10-28 21:41:27.347] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.347] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：92
+[2025-10-28 21:41:27.347] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.348] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.363] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.363] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.363] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.363] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.363] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.363] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 103
+[2025-10-28 21:41:27.363] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -103
+[2025-10-28 21:41:27.363] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.363] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：93
+[2025-10-28 21:41:27.363] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.363] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.378] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.378] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.378] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.378] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.378] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.378] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 105
+[2025-10-28 21:41:27.378] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -105
+[2025-10-28 21:41:27.378] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.378] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：95
+[2025-10-28 21:41:27.378] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.378] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.393] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.393] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.393] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.393] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.393] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.393] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 106
+[2025-10-28 21:41:27.393] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -106
+[2025-10-28 21:41:27.393] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.393] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：96
+[2025-10-28 21:41:27.393] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.393] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.407] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.407] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.407] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.407] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.407] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.407] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 108
+[2025-10-28 21:41:27.407] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -108
+[2025-10-28 21:41:27.407] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.408] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：98
+[2025-10-28 21:41:27.408] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.408] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.422] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.422] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.422] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.422] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.422] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.422] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 109
+[2025-10-28 21:41:27.422] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -109
+[2025-10-28 21:41:27.422] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.422] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：99
+[2025-10-28 21:41:27.422] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.422] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.453] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.453] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.453] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.453] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.453] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.453] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 110
+[2025-10-28 21:41:27.453] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -110
+[2025-10-28 21:41:27.453] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.453] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：100
+[2025-10-28 21:41:27.453] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.453] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.469] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.469] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.469] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.469] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.469] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.469] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 112
+[2025-10-28 21:41:27.469] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -112
+[2025-10-28 21:41:27.469] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.469] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：102
+[2025-10-28 21:41:27.469] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.469] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.485] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.485] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.485] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.485] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.485] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.485] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 113
+[2025-10-28 21:41:27.485] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -113
+[2025-10-28 21:41:27.485] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.485] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：103
+[2025-10-28 21:41:27.485] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.485] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.499] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.499] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.500] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.500] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.500] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.500] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 115
+[2025-10-28 21:41:27.500] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -115
+[2025-10-28 21:41:27.500] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.500] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：105
+[2025-10-28 21:41:27.500] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.500] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.514] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.514] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.514] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.514] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.515] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.515] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 116
+[2025-10-28 21:41:27.515] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -116
+[2025-10-28 21:41:27.515] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.515] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：106
+[2025-10-28 21:41:27.515] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.515] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.530] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.530] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.530] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.530] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.530] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.530] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 118
+[2025-10-28 21:41:27.530] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -118
+[2025-10-28 21:41:27.530] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.530] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：108
+[2025-10-28 21:41:27.530] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.530] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.546] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.546] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.546] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.546] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.546] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.546] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 119
+[2025-10-28 21:41:27.546] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -119
+[2025-10-28 21:41:27.546] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.546] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：109
+[2025-10-28 21:41:27.546] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.546] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.561] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.561] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.561] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.561] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.561] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.561] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 120
+[2025-10-28 21:41:27.561] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -120
+[2025-10-28 21:41:27.561] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.562] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：110
+[2025-10-28 21:41:27.562] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.562] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.577] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.578] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.578] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.578] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.578] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.578] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 122
+[2025-10-28 21:41:27.578] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -122
+[2025-10-28 21:41:27.578] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.578] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：112
+[2025-10-28 21:41:27.578] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.578] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.592] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.592] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.593] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.593] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.593] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.593] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 123
+[2025-10-28 21:41:27.593] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -123
+[2025-10-28 21:41:27.593] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.593] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：113
+[2025-10-28 21:41:27.593] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.593] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.623] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.624] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.624] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.624] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.624] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.624] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 125
+[2025-10-28 21:41:27.624] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -125
+[2025-10-28 21:41:27.624] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.624] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：115
+[2025-10-28 21:41:27.624] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.624] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.639] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.639] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.639] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.639] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.639] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.639] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 126
+[2025-10-28 21:41:27.639] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -126
+[2025-10-28 21:41:27.639] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.639] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：116
+[2025-10-28 21:41:27.639] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.639] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.654] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.654] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.654] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.654] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.654] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.654] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 127
+[2025-10-28 21:41:27.654] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -127
+[2025-10-28 21:41:27.654] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.654] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：117
+[2025-10-28 21:41:27.654] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.654] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.670] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.670] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.670] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.670] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.670] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.670] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 129
+[2025-10-28 21:41:27.670] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -129
+[2025-10-28 21:41:27.670] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.670] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：119
+[2025-10-28 21:41:27.670] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.670] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.686] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.686] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.686] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.686] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.686] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.686] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 130
+[2025-10-28 21:41:27.686] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -130
+[2025-10-28 21:41:27.686] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.686] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：120
+[2025-10-28 21:41:27.686] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.686] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.702] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.702] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.702] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.702] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.702] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.702] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 132
+[2025-10-28 21:41:27.702] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -132
+[2025-10-28 21:41:27.702] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.702] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：122
+[2025-10-28 21:41:27.702] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.702] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.718] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.718] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.718] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.718] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.718] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.718] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 133
+[2025-10-28 21:41:27.718] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -133
+[2025-10-28 21:41:27.718] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.718] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：123
+[2025-10-28 21:41:27.718] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.718] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.733] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.733] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.733] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.733] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.733] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.733] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 135
+[2025-10-28 21:41:27.733] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -135
+[2025-10-28 21:41:27.733] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.734] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：125
+[2025-10-28 21:41:27.734] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.734] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.749] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.749] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.749] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.749] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.749] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.749] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 136
+[2025-10-28 21:41:27.749] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -136
+[2025-10-28 21:41:27.749] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.749] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：126
+[2025-10-28 21:41:27.749] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.749] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.764] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.764] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.764] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.764] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.764] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.764] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 137
+[2025-10-28 21:41:27.764] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -137
+[2025-10-28 21:41:27.764] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.765] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：127
+[2025-10-28 21:41:27.765] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.765] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.779] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.779] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.779] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.779] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.779] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.779] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 139
+[2025-10-28 21:41:27.779] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -139
+[2025-10-28 21:41:27.779] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.779] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：129
+[2025-10-28 21:41:27.780] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.780] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.810] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.810] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.810] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.810] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.810] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.810] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 140
+[2025-10-28 21:41:27.810] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -140
+[2025-10-28 21:41:27.810] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.810] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：130
+[2025-10-28 21:41:27.810] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.810] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.825] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.825] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.825] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.825] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.825] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.825] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 142
+[2025-10-28 21:41:27.825] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -142
+[2025-10-28 21:41:27.825] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.825] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：132
+[2025-10-28 21:41:27.825] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.825] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.841] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.841] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.841] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.841] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.841] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.841] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 143
+[2025-10-28 21:41:27.841] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -143
+[2025-10-28 21:41:27.841] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.841] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：133
+[2025-10-28 21:41:27.841] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.841] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.857] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.857] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.857] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.857] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.857] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.857] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 145
+[2025-10-28 21:41:27.857] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -145
+[2025-10-28 21:41:27.857] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.857] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：135
+[2025-10-28 21:41:27.857] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.857] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.873] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.873] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.873] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.873] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.873] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.874] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 146
+[2025-10-28 21:41:27.874] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -146
+[2025-10-28 21:41:27.874] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.874] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：136
+[2025-10-28 21:41:27.874] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.874] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.888] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.888] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.888] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.888] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.888] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.888] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 147
+[2025-10-28 21:41:27.889] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -147
+[2025-10-28 21:41:27.889] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.889] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：137
+[2025-10-28 21:41:27.889] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.889] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.903] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.903] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.903] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.903] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.904] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.904] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 149
+[2025-10-28 21:41:27.904] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -149
+[2025-10-28 21:41:27.904] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.904] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：139
+[2025-10-28 21:41:27.904] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.904] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.919] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.919] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.919] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.919] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.920] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.920] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 150
+[2025-10-28 21:41:27.920] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -150
+[2025-10-28 21:41:27.920] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.920] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：140
+[2025-10-28 21:41:27.920] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.920] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.935] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.935] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.935] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.935] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.935] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.935] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 152
+[2025-10-28 21:41:27.935] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -152
+[2025-10-28 21:41:27.935] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.935] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：142
+[2025-10-28 21:41:27.935] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.935] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.950] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.950] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.950] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.950] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.950] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.950] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 153
+[2025-10-28 21:41:27.950] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -153
+[2025-10-28 21:41:27.950] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.950] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：143
+[2025-10-28 21:41:27.950] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.950] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.966] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.966] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.966] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.966] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.966] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.966] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 154
+[2025-10-28 21:41:27.966] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -154
+[2025-10-28 21:41:27.966] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.966] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：144
+[2025-10-28 21:41:27.966] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.966] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:27.997] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:27.997] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:27.997] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:27.997] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:27.997] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:27.997] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 156
+[2025-10-28 21:41:27.997] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -156
+[2025-10-28 21:41:27.997] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:27.997] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：146
+[2025-10-28 21:41:27.997] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:27.997] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.013] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.013] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.013] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.013] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.013] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.013] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 157
+[2025-10-28 21:41:28.013] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -157
+[2025-10-28 21:41:28.013] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.013] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：147
+[2025-10-28 21:41:28.013] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.013] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.033] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.033] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.033] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.033] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.034] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.034] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 159
+[2025-10-28 21:41:28.034] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -159
+[2025-10-28 21:41:28.034] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.034] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：149
+[2025-10-28 21:41:28.035] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.035] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.039] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.039] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.039] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.039] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.039] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.039] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 160
+[2025-10-28 21:41:28.040] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -160
+[2025-10-28 21:41:28.040] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.040] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：150
+[2025-10-28 21:41:28.040] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.040] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.059] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.059] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.059] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.059] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.059] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.059] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 162
+[2025-10-28 21:41:28.059] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -162
+[2025-10-28 21:41:28.059] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.059] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：152
+[2025-10-28 21:41:28.059] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.059] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.079] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.080] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.080] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.080] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.080] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.081] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 163
+[2025-10-28 21:41:28.081] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -163
+[2025-10-28 21:41:28.081] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.081] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：153
+[2025-10-28 21:41:28.081] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.082] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.089] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.089] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.089] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.089] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.089] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.089] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 164
+[2025-10-28 21:41:28.090] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -164
+[2025-10-28 21:41:28.090] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.090] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：154
+[2025-10-28 21:41:28.090] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.090] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.108] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.108] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.108] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.108] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.108] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.108] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 166
+[2025-10-28 21:41:28.108] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -166
+[2025-10-28 21:41:28.108] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.108] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：156
+[2025-10-28 21:41:28.108] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.108] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.120] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.120] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.120] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.120] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.120] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.120] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 167
+[2025-10-28 21:41:28.120] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -167
+[2025-10-28 21:41:28.120] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.120] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：157
+[2025-10-28 21:41:28.120] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.120] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.151] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.151] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.151] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.151] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.151] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.151] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 169
+[2025-10-28 21:41:28.151] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -169
+[2025-10-28 21:41:28.151] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.151] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：159
+[2025-10-28 21:41:28.151] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.151] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.153] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.153] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.153] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.153] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.153] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.153] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 170
+[2025-10-28 21:41:28.153] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -170
+[2025-10-28 21:41:28.153] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.153] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：160
+[2025-10-28 21:41:28.153] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.153] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.182] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.182] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.182] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.182] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.182] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.182] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 172
+[2025-10-28 21:41:28.183] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -172
+[2025-10-28 21:41:28.183] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.183] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：162
+[2025-10-28 21:41:28.183] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.183] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.197] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.197] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.197] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.197] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.197] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.197] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 173
+[2025-10-28 21:41:28.198] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -173
+[2025-10-28 21:41:28.198] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.198] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：163
+[2025-10-28 21:41:28.198] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.198] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.212] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.212] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.212] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.212] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.212] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.212] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 174
+[2025-10-28 21:41:28.212] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -174
+[2025-10-28 21:41:28.212] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.212] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：164
+[2025-10-28 21:41:28.212] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.212] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.228] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.228] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.228] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.228] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.228] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.228] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 176
+[2025-10-28 21:41:28.229] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -176
+[2025-10-28 21:41:28.229] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.229] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：166
+[2025-10-28 21:41:28.229] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.229] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.248] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.248] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.248] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.248] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.249] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.249] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 177
+[2025-10-28 21:41:28.249] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -177
+[2025-10-28 21:41:28.249] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.249] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：167
+[2025-10-28 21:41:28.249] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.250] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.262] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.263] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.263] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.263] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.263] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.264] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 179
+[2025-10-28 21:41:28.264] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -179
+[2025-10-28 21:41:28.264] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.264] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：169
+[2025-10-28 21:41:28.264] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.265] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.278] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.278] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.278] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.279] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.279] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.279] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 180
+[2025-10-28 21:41:28.279] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -180
+[2025-10-28 21:41:28.279] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.280] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：170
+[2025-10-28 21:41:28.280] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.280] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.293] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.293] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.293] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.294] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.294] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.294] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 182
+[2025-10-28 21:41:28.294] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -182
+[2025-10-28 21:41:28.294] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.295] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：172
+[2025-10-28 21:41:28.295] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.295] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.320] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.320] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.320] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.320] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.320] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.320] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 183
+[2025-10-28 21:41:28.320] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -183
+[2025-10-28 21:41:28.320] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.320] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：173
+[2025-10-28 21:41:28.321] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.321] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.341] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.341] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.341] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.342] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.342] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.342] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 184
+[2025-10-28 21:41:28.343] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -184
+[2025-10-28 21:41:28.343] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.343] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：174
+[2025-10-28 21:41:28.343] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.344] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.353] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.353] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.353] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.354] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.354] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.354] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 186
+[2025-10-28 21:41:28.354] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -186
+[2025-10-28 21:41:28.354] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.355] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：176
+[2025-10-28 21:41:28.355] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.355] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.360] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.360] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.361] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.361] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.361] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.361] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 187
+[2025-10-28 21:41:28.361] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -187
+[2025-10-28 21:41:28.361] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.361] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：177
+[2025-10-28 21:41:28.361] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.362] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.382] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.382] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.382] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.382] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.382] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.382] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 189
+[2025-10-28 21:41:28.382] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -189
+[2025-10-28 21:41:28.382] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.382] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：179
+[2025-10-28 21:41:28.382] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.382] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.397] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.397] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.397] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.397] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.397] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.397] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 190
+[2025-10-28 21:41:28.397] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -190
+[2025-10-28 21:41:28.397] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.397] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：180
+[2025-10-28 21:41:28.397] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.397] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.416] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.416] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.417] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.417] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.417] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.417] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 191
+[2025-10-28 21:41:28.417] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -191
+[2025-10-28 21:41:28.418] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.418] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：181
+[2025-10-28 21:41:28.418] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.418] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.434] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.434] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.434] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.434] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.434] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.435] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 193
+[2025-10-28 21:41:28.435] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -193
+[2025-10-28 21:41:28.435] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.435] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：183
+[2025-10-28 21:41:28.435] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.436] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.445] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.445] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.445] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.445] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.445] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.445] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 194
+[2025-10-28 21:41:28.445] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -194
+[2025-10-28 21:41:28.445] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.446] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：184
+[2025-10-28 21:41:28.446] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.446] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.460] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.460] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.460] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.460] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.460] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.460] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 196
+[2025-10-28 21:41:28.460] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -196
+[2025-10-28 21:41:28.460] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.460] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：186
+[2025-10-28 21:41:28.460] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.460] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.492] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.492] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.492] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.492] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.492] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.492] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 197
+[2025-10-28 21:41:28.492] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -197
+[2025-10-28 21:41:28.492] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.492] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：187
+[2025-10-28 21:41:28.492] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.492] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.494] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.494] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.494] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.494] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.494] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.494] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 199
+[2025-10-28 21:41:28.494] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -199
+[2025-10-28 21:41:28.494] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.494] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：189
+[2025-10-28 21:41:28.494] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.494] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.521] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.521] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.521] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.522] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.522] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.522] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 200
+[2025-10-28 21:41:28.522] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -200
+[2025-10-28 21:41:28.522] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.522] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：190
+[2025-10-28 21:41:28.522] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.522] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.537] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.537] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.537] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.537] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.537] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.537] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 201
+[2025-10-28 21:41:28.537] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -201
+[2025-10-28 21:41:28.537] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.537] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：191
+[2025-10-28 21:41:28.537] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.537] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.553] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.553] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.553] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.553] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.553] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.553] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 203
+[2025-10-28 21:41:28.553] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -203
+[2025-10-28 21:41:28.553] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.553] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：193
+[2025-10-28 21:41:28.553] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.553] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.571] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.571] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.572] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.572] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.572] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.572] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 204
+[2025-10-28 21:41:28.572] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -204
+[2025-10-28 21:41:28.573] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.573] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：194
+[2025-10-28 21:41:28.573] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.573] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.585] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.585] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.585] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.585] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.585] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.585] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 206
+[2025-10-28 21:41:28.585] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -206
+[2025-10-28 21:41:28.585] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.585] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：196
+[2025-10-28 21:41:28.585] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.585] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.598] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.598] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.598] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.598] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.598] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.598] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 207
+[2025-10-28 21:41:28.598] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -207
+[2025-10-28 21:41:28.598] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.598] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：197
+[2025-10-28 21:41:28.598] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.598] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.613] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.614] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.614] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.614] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.614] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.614] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 209
+[2025-10-28 21:41:28.614] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -209
+[2025-10-28 21:41:28.614] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.614] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：199
+[2025-10-28 21:41:28.614] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.614] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.643] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.643] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.643] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.643] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.643] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.643] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 210
+[2025-10-28 21:41:28.644] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -210
+[2025-10-28 21:41:28.644] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.644] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：200
+[2025-10-28 21:41:28.644] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.644] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.659] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.659] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.659] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.659] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.659] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.659] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 211
+[2025-10-28 21:41:28.659] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -211
+[2025-10-28 21:41:28.659] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.659] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：201
+[2025-10-28 21:41:28.659] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.659] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.674] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.674] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.674] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.674] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.674] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.675] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 213
+[2025-10-28 21:41:28.675] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -213
+[2025-10-28 21:41:28.675] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.675] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：203
+[2025-10-28 21:41:28.675] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.675] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.690] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.690] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.690] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.690] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.690] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.690] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 214
+[2025-10-28 21:41:28.690] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -214
+[2025-10-28 21:41:28.690] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.690] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：204
+[2025-10-28 21:41:28.690] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.691] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.709] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.709] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.709] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.710] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.710] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.710] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 216
+[2025-10-28 21:41:28.710] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -216
+[2025-10-28 21:41:28.710] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.711] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：206
+[2025-10-28 21:41:28.711] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.711] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.718] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.718] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.719] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.719] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.719] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.719] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 217
+[2025-10-28 21:41:28.719] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -217
+[2025-10-28 21:41:28.720] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.720] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：207
+[2025-10-28 21:41:28.720] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.721] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.736] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.736] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.736] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.736] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.736] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.736] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 218
+[2025-10-28 21:41:28.736] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -218
+[2025-10-28 21:41:28.736] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.736] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：208
+[2025-10-28 21:41:28.736] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.736] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.750] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.750] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.751] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.751] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.751] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.751] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 220
+[2025-10-28 21:41:28.751] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -220
+[2025-10-28 21:41:28.751] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.751] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：210
+[2025-10-28 21:41:28.751] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.751] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:41:28.766] [Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:41:28.766] [Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:41:28.766] [Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:41:28.766] [Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:41:28.766] [Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:41:28.766] [Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 221
+[2025-10-28 21:41:28.766] [Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -221
+[2025-10-28 21:41:28.766] [Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:41:28.766] [Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：211
+[2025-10-28 21:41:28.766] [Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:41:28.766] [Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000

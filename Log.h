@@ -44,6 +44,8 @@ namespace fs = std::experimental::filesystem;
 #define LOG_WARNING(msg) LOG_WRITE("WARNING", msg)
 #define LOG_CGI(msg) LOG_WRITE("CGI", msg)
 #define LOG_DB(msg) LOG_WRITE("DB", msg)
+#define LOG_SPEED(msg) LOG_WRITE("SPEED", msg)
+#define LOG_VISUAL(msg) LOG_WRITE("VISUAL", msg)
 
 class Log
 {

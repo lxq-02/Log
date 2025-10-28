@@ -1,0 +1,1135 @@
+[2025-10-28 21:37:13.746] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.746] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: -132880
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: 132880
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:352][SetVisualDynamicSpeed] 进入加速
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:355][SetVisualDynamicSpeed] 加速比例：132870
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:358][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.747] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.751] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.786] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 11
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -11
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：1
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 12
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -12
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：2
+[2025-10-28 21:37:13.847] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.847] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 14
+[2025-10-28 21:37:13.878] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -14
+[2025-10-28 21:37:13.878] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.878] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：4
+[2025-10-28 21:37:13.878] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.878] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 15
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -15
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：5
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.881] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 17
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -17
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：7
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.908] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 18
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -18
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：8
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.922] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 19
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -19
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：9
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.937] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 21
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -21
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：11
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.952] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 22
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -22
+[2025-10-28 21:37:13.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：12
+[2025-10-28 21:37:13.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 24
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -24
+[2025-10-28 21:37:13.983] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:13.983] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：14
+[2025-10-28 21:37:13.983] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:13.983] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 25
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -25
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：15
+[2025-10-28 21:37:14.014] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:14.014] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 27
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -27
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：17
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 28
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -28
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：18
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:14.045] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 29
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -29
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：19
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：0.000000
+[2025-10-28 21:37:14.060] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 31
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -31
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：21
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.075] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.094] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.094] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.094] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.094] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 32
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -32
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：22
+[2025-10-28 21:37:14.095] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.096] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 34
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -34
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：24
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.107] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 35
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -35
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：25
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 36
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -36
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：26
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.138] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 38
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -38
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：28
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 39
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -39
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：29
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 41
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -41
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：31
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 42
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -42
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：32
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 44
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -44
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：34
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 45
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -45
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：35
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 46
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -46
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：36
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 48
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -48
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：38
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 49
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -49
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：39
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 51
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -51
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：41
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 52
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -52
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：42
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 54
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -54
+[2025-10-28 21:37:14.351] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.351] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：44
+[2025-10-28 21:37:14.351] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.351] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 55
+[2025-10-28 21:37:14.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -55
+[2025-10-28 21:37:14.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：45
+[2025-10-28 21:37:14.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 56
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -56
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：46
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 58
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -58
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：48
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 59
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -59
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：49
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 61
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -61
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：51
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 62
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -62
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：52
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.442] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 63
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -63
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：53
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.458] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 65
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -65
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：55
+[2025-10-28 21:37:14.489] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.489] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 66
+[2025-10-28 21:37:14.504] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -66
+[2025-10-28 21:37:14.504] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.504] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：56
+[2025-10-28 21:37:14.504] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.504] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 68
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -68
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：58
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 69
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -69
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.536] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：59
+[2025-10-28 21:37:14.536] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.536] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 71
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -71
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：61
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.551] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 72
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -72
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：62
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.566] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 73
+[2025-10-28 21:37:14.582] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -73
+[2025-10-28 21:37:14.582] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.582] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：63
+[2025-10-28 21:37:14.582] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.582] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 75
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -75
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：65
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.596] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 76
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -76
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：66
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 78
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -78
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：68
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 79
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -79
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：69
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.657] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 81
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -81
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：71
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.672] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 82
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -82
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：72
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 83
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -83
+[2025-10-28 21:37:14.704] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.704] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：73
+[2025-10-28 21:37:14.704] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.704] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.723] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.723] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 85
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -85
+[2025-10-28 21:37:14.724] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.725] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：75
+[2025-10-28 21:37:14.725] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.725] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.739] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.739] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.740] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.740] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.740] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.741] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 86
+[2025-10-28 21:37:14.741] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -86
+[2025-10-28 21:37:14.741] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.741] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：76
+[2025-10-28 21:37:14.742] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.742] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.755] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.755] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.755] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.755] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 88
+[2025-10-28 21:37:14.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -88
+[2025-10-28 21:37:14.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：78
+[2025-10-28 21:37:14.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 89
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -89
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：79
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 91
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -91
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：81
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.783] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 92
+[2025-10-28 21:37:14.812] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -92
+[2025-10-28 21:37:14.812] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.812] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：82
+[2025-10-28 21:37:14.812] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.812] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 93
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -93
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：83
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 95
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -95
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：85
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.843] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 96
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -96
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：86
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.858] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 98
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -98
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：88
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 99
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -99
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：89
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.888] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 100
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -100
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：90
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.903] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 102
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -102
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：92
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.919] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 103
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -103
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：93
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.934] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.968] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.969] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.969] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.969] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 105
+[2025-10-28 21:37:14.969] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -105
+[2025-10-28 21:37:14.970] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.970] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：95
+[2025-10-28 21:37:14.970] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.970] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:14.977] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:14.977] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:14.977] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:14.977] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 106
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -106
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：96
+[2025-10-28 21:37:14.978] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:14.979] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.000] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.000] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.000] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.000] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.000] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 108
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -108
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：98
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.001] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.008] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.008] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.008] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.008] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 109
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -109
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：99
+[2025-10-28 21:37:15.009] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.010] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.030] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.030] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.030] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 110
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -110
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.031] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：100
+[2025-10-28 21:37:15.032] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.032] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.038] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.038] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.038] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.038] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.038] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 112
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -112
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：102
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.039] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 113
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -113
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：103
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 115
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -115
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：105
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 116
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -116
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：106
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.090] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 118
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -118
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：108
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.125] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.125] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.125] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 119
+[2025-10-28 21:37:15.125] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -119
+[2025-10-28 21:37:15.125] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.126] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：109
+[2025-10-28 21:37:15.126] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.126] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.155] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.155] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 120
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -120
+[2025-10-28 21:37:15.156] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.157] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：110
+[2025-10-28 21:37:15.157] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.157] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.163] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 122
+[2025-10-28 21:37:15.164] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -122
+[2025-10-28 21:37:15.165] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.165] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：112
+[2025-10-28 21:37:15.165] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.165] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 123
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -123
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：113
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 125
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -125
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：115
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.198] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 126
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -126
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：116
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.214] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.232] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.232] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.232] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.232] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.233] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.233] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 127
+[2025-10-28 21:37:15.233] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -127
+[2025-10-28 21:37:15.233] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.233] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：117
+[2025-10-28 21:37:15.234] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.234] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.247] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.247] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.247] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.248] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.248] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.248] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 129
+[2025-10-28 21:37:15.248] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -129
+[2025-10-28 21:37:15.249] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.249] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：119
+[2025-10-28 21:37:15.249] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.249] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.261] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.261] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.261] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 130
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -130
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：120
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.262] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 132
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -132
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：122
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.308] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.308] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.308] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.309] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.309] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.309] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 133
+[2025-10-28 21:37:15.309] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -133
+[2025-10-28 21:37:15.309] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.310] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：123
+[2025-10-28 21:37:15.310] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.310] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.317] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.318] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.318] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.318] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.318] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.318] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 135
+[2025-10-28 21:37:15.319] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -135
+[2025-10-28 21:37:15.319] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.319] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：125
+[2025-10-28 21:37:15.319] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.319] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.338] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.338] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.338] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.338] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.339] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.339] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 136
+[2025-10-28 21:37:15.339] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -136
+[2025-10-28 21:37:15.339] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.339] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：126
+[2025-10-28 21:37:15.340] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.340] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.346] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.347] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.347] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.347] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.347] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.347] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 137
+[2025-10-28 21:37:15.348] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -137
+[2025-10-28 21:37:15.348] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.348] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：127
+[2025-10-28 21:37:15.348] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.348] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 139
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -139
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：129
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.368] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 140
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -140
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：130
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 142
+[2025-10-28 21:37:15.398] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -142
+[2025-10-28 21:37:15.398] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.398] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：132
+[2025-10-28 21:37:15.398] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.398] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 143
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -143
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：133
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.414] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 145
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -145
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：135
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 146
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -146
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：136
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.445] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.479] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.479] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.479] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.480] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.480] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.480] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 147
+[2025-10-28 21:37:15.480] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -147
+[2025-10-28 21:37:15.481] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.481] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：137
+[2025-10-28 21:37:15.481] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.482] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.489] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.490] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.490] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.490] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.491] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.491] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 149
+[2025-10-28 21:37:15.491] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -149
+[2025-10-28 21:37:15.491] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.492] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：139
+[2025-10-28 21:37:15.492] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.492] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000
+[2025-10-28 21:37:15.499] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:334][SetVisualDynamicSpeed] -----------------------------------------
+[2025-10-28 21:37:15.499] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:335][SetVisualDynamicSpeed] atpSpeed: 0.000000
+[2025-10-28 21:37:15.499] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:336][SetVisualDynamicSpeed] m_dTcdtAndVisualSpeedRate: 1.252000
+[2025-10-28 21:37:15.499] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:337][SetVisualDynamicSpeed] curSpeed: 0.000000
+[2025-10-28 21:37:15.499] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:346][SetVisualDynamicSpeed] 控显当前里程: 0
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:347][SetVisualDynamicSpeed] 视景当前里程: 150
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:348][SetVisualDynamicSpeed] 当前差值: -150
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:363][SetVisualDynamicSpeed] 进入减速
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:366][SetVisualDynamicSpeed] 减速比例：140
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:369][SetVisualDynamicSpeed] 速度值：-0.000000
+[2025-10-28 21:37:15.500] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\Simulator.cpp:379][SetVisualDynamicSpeed] 设置当前速度: 300.000000

@@ -1,0 +1,963 @@
+[2025-10-28 21:37:13.744] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.744] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.745] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:0,	y:0,	z:0,	h:0,	p:0,	r:0
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.749] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.752] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.752] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.752] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.756] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.757] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.769] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.770] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.784] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.784] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.784] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.784] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.784] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.785] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.800] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.801] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.815] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.816] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.830] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.831] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.845] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.846] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.876] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.876] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.876] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.876] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.876] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.877] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.880] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.906] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.907] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.921] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.936] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.951] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:13.981] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:13.982] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.012] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.013] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.015] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.016] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.044] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.091] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.091] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.092] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.092] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.092] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.092] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.093] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.093] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.093] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.106] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.122] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.122] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.124] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.137] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.182] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.183] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.227] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.242] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.258] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.258] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.274] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.288] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.289] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.349] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.349] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.350] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.365] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.365] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.380] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.380] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.395] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.395] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.395] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.411] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.426] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.426] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.426] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.426] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.426] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.427] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.441] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.456] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.456] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.457] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.502] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.503] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.519] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.520] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.534] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.534] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.534] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.535] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.549] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.549] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.550] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.564] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.564] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.564] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.564] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.564] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.565] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.580] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.581] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.595] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.610] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.611] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.641] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.642] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.656] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.670] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.671] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.686] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.686] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.686] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.686] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.686] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.687] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.702] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.703] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.719] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.720] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.720] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.721] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.721] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.721] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.722] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.722] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.722] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.735] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.735] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.736] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.736] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.736] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.737] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.737] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.738] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.738] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.750] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.751] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.752] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.752] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.753] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.754] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.766] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.766] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.766] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.767] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.767] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.767] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.768] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.768] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.768] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.781] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.781] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.781] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.781] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.782] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.810] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.810] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.810] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.810] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.811] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.813] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.813] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.813] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.814] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.841] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.842] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.857] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.872] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.873] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.886] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.886] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.886] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.887] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.902] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.917] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.917] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.918] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.933] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.965] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.965] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.965] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.966] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.967] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.974] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.974] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.974] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.975] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.975] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.975] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.976] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.976] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.976] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:14.996] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:14.996] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:14.997] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:14.997] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:14.998] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:14.998] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:14.998] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:14.999] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:14.999] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.005] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.005] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.005] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.006] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.006] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.006] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.007] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.007] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.007] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.027] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.027] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.028] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.028] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.028] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.028] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.029] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.029] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.029] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.035] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.035] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.036] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.036] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.036] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.037] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.037] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.037] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.037] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.058] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.059] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.073] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.074] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.088] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.088] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.088] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.088] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.089] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.104] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.105] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.121] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.121] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.121] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.122] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.122] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.122] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.123] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.151] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.152] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.153] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.154] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.154] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.154] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.160] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.161] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.161] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.161] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.162] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.162] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.162] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.162] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.163] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.181] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.196] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.197] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.212] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.213] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.228] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.229] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.229] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.230] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.230] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.230] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.231] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.231] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.243] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.244] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.244] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.244] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.245] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.245] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.246] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.246] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.246] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.259] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.260] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.261] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.273] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.304] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.305] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.306] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.306] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.306] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.307] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.307] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.307] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.314] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.314] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.315] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.315] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.315] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.316] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.316] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.316] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.317] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.334] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.335] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.336] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.336] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.336] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.337] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.337] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.343] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.344] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.344] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.344] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.345] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.345] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.345] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.346] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.346] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.365] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.366] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.367] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.381] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.382] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.383] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.383] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.383] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.384] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.396] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.397] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.412] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.413] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.428] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.429] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.444] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.475] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.475] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.476] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.476] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.476] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.477] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.477] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.478] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.478] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.486] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.486] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.487] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.488] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.489] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0
+[2025-10-28 21:37:15.496] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:360][Send] --------------------------------------------------------
+[2025-10-28 21:37:15.496] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:369][Send] x:377689,	y:-660672,	z:2387.31,	h:190.011,	p:0,	r:0
+[2025-10-28 21:37:15.497] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:377][Send] x:378138,	y:-663131,	z:2387.31,	h:190.333,	p:0,	r:0
+[2025-10-28 21:37:15.497] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:385][Send] x:378600,	y:-665588,	z:2387.31,	h:190.653,	p:0,	r:0
+[2025-10-28 21:37:15.497] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:393][Send] x:379076,	y:-668042,	z:2387.31,	h:190.972,	p:5.46272e-05,	r:0
+[2025-10-28 21:37:15.498] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:401][Send] x:379566,	y:-670494,	z:2387.32,	h:191.29,	p:-0.00187225,	r:0
+[2025-10-28 21:37:15.498] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:409][Send] x:380069,	y:-672943,	z:2387.15,	h:191.608,	p:0.00212167,	r:0
+[2025-10-28 21:37:15.498] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:417][Send] x:380585,	y:-675389,	z:2387.42,	h:191.928,	p:0.072723,	r:0
+[2025-10-28 21:37:15.498] [C:\Users\LXQ\code\HW2025_01\20251028\MainSim\MainSim\DataTrans\NetDataInstance.cpp:425][Send] x:380585,	y:-675389,	z:2387.42,	h:12.2487,	p:-0.143324,	r:0

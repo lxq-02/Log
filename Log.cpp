@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "Log.h"
 
 
@@ -24,6 +25,7 @@ void Log::CloseAll()
     }
     m_logFiles.clear();
 }
+
 
 std::string Log::GenerateLogFileName(const std::string& modulename)
 {
@@ -33,9 +35,9 @@ std::string Log::GenerateLogFileName(const std::string& modulename)
     char timeStr[64];
     tm localTime;
     localtime_s(&localTime, &nowTime);
-    std::strftime(timeStr, sizeof(timeStr), "Log_%Y年%m月%d日%H时%M分%S秒", &localTime);
+    std::strftime(timeStr, sizeof(timeStr), "%Y年%m月%d日%H时%M分%S秒_Log_", &localTime);
 
-    std::string fileName = modulename + "_" + std::string(timeStr) + ".log";
+    std::string fileName = std::string(timeStr) + modulename + ".log";
     return fileName;
 }
 
@@ -85,12 +87,23 @@ void Log::WriteImpl(const std::string& moduleName, const std::string& message, c
         // 获取毫秒
         auto ms = std::chrono::duration_cast<std::chrono::milliseconds>(now.time_since_epoch()) % 1000;
     
+        // 提取纯文件名（新增代码）
+        const char* fileName = file ? strrchr(file, '\\') : nullptr;
+        fileName = fileName ? fileName + 1 : (file ? file : "unknown");
+
         // 写入日志
         m_logFiles[moduleName] << "[" << timeStr << "."
             << std::setfill('0') << std::setw(3) << ms.count() << "] "
-            << "[" << (file ? file : "unknown") << ":" << line << "]["
+            << "[" << fileName << ":" << line << "]["
             << (function ? function : "unknown") << "] "
             << message << std::endl;
+
+        //// 写入日志
+        //m_logFiles[moduleName] << "[" << timeStr << "."
+        //    << std::setfill('0') << std::setw(3) << ms.count() << "] "
+        //    << "[" << (file ? file : "unknown") << ":" << line << "]["
+        //    << (function ? function : "unknown") << "] "
+        //    << message << std::endl;
     }
 }
 
